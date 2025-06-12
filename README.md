@@ -27,6 +27,9 @@ To analyze and visualize the sales performance of Vrinda Store by identifying tr
 - Top five states with the highest sales
 - Orders distribution according to age and gender
 
+## 📸 Excel Dashboard  
+   ![Excel Dashboard](Store__Excel_Annual_Report.png)
+
 ## Conclusion
 
 This project simulates a real-world retail analytics task using Excel. It demonstrates how store-level data can be turned into meaningful insights that support better inventory, marketing, and sales decisions.
