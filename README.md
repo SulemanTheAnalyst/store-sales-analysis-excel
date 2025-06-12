@@ -33,3 +33,6 @@ To analyze and visualize the sales performance of Vrinda Store by identifying tr
 ## Conclusion
 
 This project simulates a real-world retail analytics task using Excel. It demonstrates how store-level data can be turned into meaningful insights that support better inventory, marketing, and sales decisions.
+
+## 📬 Let's Connect!
+If you're a recruiter or someone interested in collaborating, feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/sulemantheanalyst).
